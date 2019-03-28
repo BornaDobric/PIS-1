@@ -7,5 +7,6 @@ namespace ConsoleApp5
 {
     class NewClass
     {
+        //lansiranje rakete
     }
 }
